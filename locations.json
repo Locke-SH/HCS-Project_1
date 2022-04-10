@@ -1,0 +1,84 @@
+{
+  "locations": [
+    {
+      "id": 11,
+      "city": "Hameln",
+      "country": "Germany",
+      "vistited_from": "2021-09-03",
+      "visited_to": "2021-10-07",
+      "description": "city i am born"
+    },
+    {
+      "id": 12,
+      "city": "Kiel",
+      "country": "Germany",
+      "vistited_from": "2008-01-10",
+      "visited_to": "2022-04-10",
+      "description": "my actual hometown"
+    },
+    {
+      "id": 13,
+      "city": "Laax",
+      "country": "Switzerland",
+      "vistited_from": "2022-02-01",
+      "visited_to": "2022-02-06",
+      "description": "Just been skiing here"
+    },
+    {
+      "id": 15,
+      "city": "Emden",
+      "country": "Germany",
+      "vistited_from": "2022-04-01",
+      "visited_to": "2022-04-01",
+      "description": "City of Otto Walkes"
+    },
+    {
+      "id": 16,
+      "city": "Flensburg",
+      "country": "Germany",
+      "vistited_from": "2022-05-10",
+      "visited_to": "2022-04-07",
+      "description": "is near Denmark"
+    },
+    {
+      "id": 17,
+      "city": "Sylt",
+      "country": "Germany",
+      "vistited_from": "2022-03-17",
+      "visited_to": "2022-03-20",
+      "description": "trip for my cousins birthday"
+    },
+    {
+      "id": 18,
+      "city": "Rinteln",
+      "country": "Germany",
+      "vistited_from": "2022-04-28",
+      "visited_to": "2022-04-24",
+      "description": "visiting grandcousin"
+    },
+    {
+      "id": 20,
+      "city": "Warnemünde",
+      "country": "Germany",
+      "vistited_from": "2022-04-01",
+      "visited_to": "2022-04-07",
+      "description": "lots of sail racing in the last years"
+    },
+    {
+      "id": 21,
+      "city": "Bad Münder",
+      "country": "Germany",
+      "vistited_from": "2022-01-03",
+      "visited_to": "2022-01-16",
+      "description": "Testtext"
+    },
+    {
+      "id": 22,
+      "city": "Hannover",
+      "country": "Germany",
+      "vistited_from": "2022-04-01",
+      "visited_to": "2022-04-29",
+      "description": "test"
+    }
+  ]
+}
